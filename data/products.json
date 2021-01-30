@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "name": "Computers",
+        "IsStock" : true,
+        "CreatedAt" : "2021-01-29T15:23:41+08:00"
+    },
+    {
+        "id": 1,
+        "name": "Games",
+        "IsStock" : true,
+        "CreatedAt" : "2021-01-28T10:15:26+08:00"
+    },
+    {
+        "id": 2,
+        "name": "Books",
+        "IsStock" : true,
+        "CreatedAt" : "2021-01-15T23:56:48+08:00"
+    }
+]
