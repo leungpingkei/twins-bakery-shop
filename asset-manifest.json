@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/twins-bakery-shop/static/css/main.69491fdd.chunk.css",
-    "main.js": "/twins-bakery-shop/static/js/main.a6b15c11.chunk.js",
-    "main.js.map": "/twins-bakery-shop/static/js/main.a6b15c11.chunk.js.map",
+    "main.js": "/twins-bakery-shop/static/js/main.f0cb3087.chunk.js",
+    "main.js.map": "/twins-bakery-shop/static/js/main.f0cb3087.chunk.js.map",
     "runtime-main.js": "/twins-bakery-shop/static/js/runtime-main.d338d790.js",
     "runtime-main.js.map": "/twins-bakery-shop/static/js/runtime-main.d338d790.js.map",
     "static/css/2.658248ec.chunk.css": "/twins-bakery-shop/static/css/2.658248ec.chunk.css",
-    "static/js/2.c1c13c38.chunk.js": "/twins-bakery-shop/static/js/2.c1c13c38.chunk.js",
-    "static/js/2.c1c13c38.chunk.js.map": "/twins-bakery-shop/static/js/2.c1c13c38.chunk.js.map",
+    "static/js/2.44b079f2.chunk.js": "/twins-bakery-shop/static/js/2.44b079f2.chunk.js",
+    "static/js/2.44b079f2.chunk.js.map": "/twins-bakery-shop/static/js/2.44b079f2.chunk.js.map",
     "index.html": "/twins-bakery-shop/index.html",
     "static/css/2.658248ec.chunk.css.map": "/twins-bakery-shop/static/css/2.658248ec.chunk.css.map",
     "static/css/main.69491fdd.chunk.css.map": "/twins-bakery-shop/static/css/main.69491fdd.chunk.css.map",
-    "static/js/2.c1c13c38.chunk.js.LICENSE.txt": "/twins-bakery-shop/static/js/2.c1c13c38.chunk.js.LICENSE.txt"
+    "static/js/2.44b079f2.chunk.js.LICENSE.txt": "/twins-bakery-shop/static/js/2.44b079f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d338d790.js",
     "static/css/2.658248ec.chunk.css",
-    "static/js/2.c1c13c38.chunk.js",
+    "static/js/2.44b079f2.chunk.js",
     "static/css/main.69491fdd.chunk.css",
-    "static/js/main.a6b15c11.chunk.js"
+    "static/js/main.f0cb3087.chunk.js"
   ]
 }
